@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         Table Harvest
+// @namespace    https://github.com/oexwashere
+// @version      1.0.0
+// @description  Export the tables you choose into clean, correctly escaped CSV files.
+// @author       oexwashere
+// @match        https://*/*
+// @noframes
+// @run-at       document-idle
+// @grant        GM_registerMenuCommand
+// @license      MIT
+// ==/UserScript==
